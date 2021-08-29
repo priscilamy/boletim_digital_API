@@ -1,0 +1,4 @@
+[   {"raAluno": "RA123", "senha": "12345", "nomeAluno": "Fulano de Tal"},
+    {"raAluno": "RA456", "senha": "abcde", "nomeAluno": "Ciclano Beltrano"},
+    {"raAluno": "RA789", "senha": "56789", "nomeAluno": "Ciclano Beltrano"}
+]
